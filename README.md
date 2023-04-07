@@ -3,6 +3,7 @@
 
 ## Python의 기본
 - Primitive Type이 존재하지 않음. 모두 다 Object Type.
+- 읽는것과 변경하는 것을 구분해야 함.
 
 ## list
 - list와 str의 차이 (mutable, immutable)
